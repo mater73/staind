@@ -11,3 +11,6 @@ class Base:
             print 'hello'
         except Exception as ex:
             print ex
+
+
+obj = Base()
